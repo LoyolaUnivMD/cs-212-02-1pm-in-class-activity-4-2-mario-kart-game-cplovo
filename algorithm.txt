@@ -1,1 +1,20 @@
-THINK before you code...
+Algothrim:
+
+MarioKartPlayer Class
+1. Create a new Java file named MarioKartPlayer.java.
+2. Define the MarioKartPlayer class with the following attributes:
+    - playerName (String)
+    - character (String)
+    - speed (int)
+3. Implement a constructor to initialize the player with a name, character, and starting speed.
+4. Implement a boost method that increases the player's speed.
+5. Implement a displayInfo method to display the player's information (name, character, speed).
+
+MarioKartGame Class
+1. Create a new Java file named MarioKartGame.java.
+2. Define the MarioKartGame class.
+3. In the main method:
+    - Instantiate two MarioKartPlayer objects with different names, characters, and starting speeds.
+    - Display the information of both players.
+    - Simulate a boost action for each player.
+    - Display the updated information of both players after the boost.
